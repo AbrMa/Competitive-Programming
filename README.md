@@ -8,8 +8,14 @@ This repo contains solutions that I've written to some competitive programming p
 ### DIV 3
 
 ### Problems A
+**N**|**Problem**|**Difficulty**|**Tags**|**Statement**
+:-----:|:-----:|:-----:|:-----:|:-----:
+1|[Most Unstable Array](https://github.com/AbrMa/Competitive-Programming/blob/master/Codeforces/Div%203/A/Most%20Unstable%20Array.cpp)|700|constructive algorithms, math|https://codeforces.com/contest/1353/problem/A
 
 ### Problems B
+**N**|**Problem**|**Difficulty**|**Tags**|**Statement**
+:-----:|:-----:|:-----:|:-----:|:-----:
+1|[Two Arrays And Swaps](https://github.com/AbrMa/Competitive-Programming/blob/master/Codeforces/Div%203/B/Two%20Arrays%20And%20Swaps.cpp)|800|greedy, sortings|https://codeforces.com/contest/1353/problem/B
 
 ### DIV 2
 
