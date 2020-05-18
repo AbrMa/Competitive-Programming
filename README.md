@@ -5,6 +5,14 @@ This repo contains solutions that I've written to some competitive programming p
 ## Codeforces
 ![codeforces](https://sta.codeforces.com/s/33823/images/codeforces-vs-coronavirus-65.png)
 
+### DIV 4
+
+### Problems A
+
+**N**|**Problem**|**Difficulty**|**Tags**|**Statement**
+:-----:|:-----:|:-----:|:-----:|:-----:
+1|[Sum of Round Numbers](https://github.com/AbrMa/Competitive-Programming/blob/master/Codeforces/Div%204/A/Sum%20of%20Round%20Numbers.cpp)|800|implementation, math|https://codeforces.com/contest/1352/problem/A
+
 ### DIV 3
 
 ### Problems A
@@ -69,4 +77,6 @@ This repo contains solutions that I've written to some competitive programming p
 45|[Sequence with Digits](https://github.com/AbrMa/Competitive-Programming/blob/master/Codeforces/Div%202/A/Sequence%20with%20Digits.cpp)|1200|brute force, implementation, math|https://codeforces.com/contest/1355/problem/A
 46|[Pashmak and Garden](https://github.com/AbrMa/Competitive-Programming/blob/master/Codeforces/Div%202/A/Pashmak%20and%20Garden.cpp)|1200|implementation|https://codeforces.com/problemset/problem/459/A
 47|[Cheap Travel](https://github.com/AbrMa/Competitive-Programming/blob/master/Codeforces/Div%202/A/Cheap%20Travel.cpp)|1200|implementation|https://codeforces.com/problemset/problem/466/A
+50|[TL](https://github.com/AbrMa/Competitive-Programming/blob/master/Codeforces/Div%202/A/TL.cpp)|1200|brute force, greedy, implementation|https://codeforces.com/contest/350/problem/A
 48|[IQ test](https://github.com/AbrMa/Competitive-Programming/blob/master/Codeforces/Div%202/A/IQ%20test.cpp)|1300|brute force|https://codeforces.com/problemset/problem/25/A
+49|[Cut Ribbon](https://github.com/AbrMa/Competitive-Programming/blob/master/Codeforces/Div%202/A/Cut%20Ribbon.cpp)|1300|brute force, dp|https://codeforces.com/contest/189/problem/A
