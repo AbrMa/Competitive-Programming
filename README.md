@@ -5,6 +5,8 @@ This repo contains solutions that I've written to some competitive programming p
 ## Codeforces
 ![codeforces](https://sta.codeforces.com/s/33823/images/codeforces-vs-coronavirus-65.png)
 
+---
+
 ### DIV 4
 
 ### Problems A
@@ -12,6 +14,8 @@ This repo contains solutions that I've written to some competitive programming p
 **N**|**Problem**|**Difficulty**|**Tags**|**Statement**
 :-----:|:-----:|:-----:|:-----:|:-----:
 1|[Sum of Round Numbers](https://github.com/AbrMa/Competitive-Programming/blob/master/Codeforces/Div%204/A/Sum%20of%20Round%20Numbers.cpp)|800|implementation, math|https://codeforces.com/contest/1352/problem/A
+
+---
 
 ### DIV 3
 
@@ -24,6 +28,8 @@ This repo contains solutions that I've written to some competitive programming p
 **N**|**Problem**|**Difficulty**|**Tags**|**Statement**
 :-----:|:-----:|:-----:|:-----:|:-----:
 1|[Two Arrays And Swaps](https://github.com/AbrMa/Competitive-Programming/blob/master/Codeforces/Div%203/B/Two%20Arrays%20And%20Swaps.cpp)|800|greedy, sortings|https://codeforces.com/contest/1353/problem/B
+
+---
 
 ### DIV 2
 
