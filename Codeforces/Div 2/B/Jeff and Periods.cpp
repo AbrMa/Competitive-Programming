@@ -41,3 +41,47 @@ int main(){
 		cout << ans[i] << " " << ans[i+1] << endl;
 	return 0;
 }
+
+//PYTHON3
+/*
+from collections import OrderedDict
+n = int(input())
+a = [int(x) for x in input().split()]
+values = {}
+total = 0
+answer = ""
+
+def isArithmetic(indices):
+    if len(indices) == 1:
+        return 0
+    valid = True
+    last = indices[0]
+    current = indices[1]
+    dif = current - last
+    for i in range(1, len(indices)):
+        current = indices[i]
+        if current - last != dif:
+            valid = False
+        last = current
+    if valid:
+        return dif
+    else:
+        return -1
+
+for i in range(n):
+    values[a[i]] = []
+
+for i in range(n):
+    values[a[i]].append(i)
+
+values = OrderedDict(sorted(values.items()))
+
+for x, indices in values.items():
+    valid = isArithmetic(indices)
+    if valid >= 0:
+        total += 1;
+        answer += f"{x} {valid}\n"
+
+print(total)
+print(answer)
+*/
